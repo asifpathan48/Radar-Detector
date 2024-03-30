@@ -32,7 +32,10 @@ This project combines an ultrasonic sensor, servo motor, and Processing software
 3. Adjust sensitivity and servo motor movement as needed.
 
 ## Contributions
-Contributions are welcome! If you have any suggestions or bug reports, feel free to open an issue or submit a pull request.
+[Asif Pathan](https://github.com/asifpathan48/)
+[Prasad]
+[Uday Kiran] 
+ 
 
 ## License
 This project is licensed under the MIT License.
