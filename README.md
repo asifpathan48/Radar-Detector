@@ -2,7 +2,7 @@
 
 This project combines an ultrasonic sensor, servo motor, and Processing software for real-time object detection with visual feedback. The radar detector system detects obstacles and displays a red color when an obstacle is detected, and green when no obstacle is present. It is Arduino Uno compatible and suitable for obstacle sensing and security applications.
 
-![Project Board] (https://github.com/asifpathan48/Radar-Detector/blob/main/project%20boardd.jpg) 
+![Project Board](https://github.com/asifpathan48/Radar-Detector/blob/main/project%20boardd.jpg)
 
 ## Features
 - Real-time object detection using ultrasonic sensor
