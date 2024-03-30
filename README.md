@@ -33,8 +33,8 @@ This project combines an ultrasonic sensor, servo motor, and Processing software
 
 ## Contributions
 [Asif Pathan](https://github.com/asifpathan48/)
-[Prasad]
-[Uday Kiran] 
+[Prasad](https://www.instagram.com/_prasad.yadav__/)
+[Uday Kiran](https://www.instagram.com/joseph_udaykiran/)
  
 
 ## License
