@@ -1,13 +1,14 @@
-# Radar Detector with Servo
+# Radar Detector with Servo and Real-time Visualization
 
-This project implements a radar detector using an ultrasonic sensor and a servo motor. The radar detector system is capable of detecting objects in real-time and providing feedback. It is Arduino Uno compatible and ideal for applications such as obstacle sensing and security systems.
+This project combines an ultrasonic sensor, servo motor, and Processing software for real-time object detection with visual feedback. The radar detector system detects obstacles and displays a red color when an obstacle is detected, and green when no obstacle is present. It is Arduino Uno compatible and suitable for obstacle sensing and security applications.
 
 ## Features
 - Real-time object detection using ultrasonic sensor
 - Servo motor for directional scanning
+- Visual feedback using Processing software
+- Red color indication for detected obstacles, green for no obstacles
 - Adjustable sensitivity for various environments
 - Easy integration with Arduino Uno
-- Suitable for obstacle detection and security applications
 
 ## Components
 - Arduino Uno
@@ -19,11 +20,12 @@ This project implements a radar detector using an ultrasonic sensor and a servo 
 ## Installation
 1. Connect the components according to the provided schematic.
 2. Upload the Arduino sketch to the Arduino Uno.
-3. Power on the system and observe real-time object detection.
+3. Save and run the provided Processing code.
+4. Power on the system and observe real-time object detection with visual feedback.
 
 ## Usage
 1. Place the radar detector in the desired location.
-2. The system will scan the surroundings and detect objects in real-time.
+2. Observe the visual feedback: red indicates obstacles, green indicates no obstacles.
 3. Adjust sensitivity and servo motor movement as needed.
 
 ## Contributions
