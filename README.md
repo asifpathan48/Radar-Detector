@@ -25,6 +25,7 @@ This project combines an ultrasonic sensor, servo motor, and Processing software
 3. Save and run the provided Processing code.
 4. Power on the system and observe real-time object detection with visual feedback.
 
+![Obstacle Detection Image](https://github.com/asifpathan48/Radar-Detector/blob/main/processing%20software%20output.jpg)
 ## Usage
 1. Place the radar detector in the desired location.
 2. Observe the visual feedback: red indicates obstacles, green indicates no obstacles.
